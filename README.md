@@ -8,4 +8,4 @@ Recommends an item based on it features & how similar they rae to features of ot
 Algorithm used: Nearest Neighbors
 
 
-Model Evaluation
+
